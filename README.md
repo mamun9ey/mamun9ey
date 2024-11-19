@@ -76,12 +76,10 @@ Let’s collaborate to build meaningful and impactful solutions together! 🚀
 
 - **Bachelor of Science in Computer Science and Engineering**  
   Dhaka University of Engineering & Technology (DUET), Gazipur  
-  CGPA: 3.04/4.00 | Last 21.25 Credits: 3.64  
   *October 2024*
 
 - **Diploma in Computer Technology**  
   Feni Ideal Polytechnic Institute, Feni, Bangladesh  
-  CGPA: 3.58/4.00  
   *July 2018*
 
 ---
