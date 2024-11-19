@@ -117,11 +117,12 @@ Let’s collaborate to build meaningful and impactful solutions together! 🚀
 
 ### 🌐 **Connect with Me**
 
-[![LinkedIn](https://cdn-icons-png.flaticon.com/512/174/174857.png)](https://linkedin.com/abdullah-al-mamun-5857a0148)  
+[![LinkedIn](https://cdn-icons-png.flaticon.com/512/174/174857.png)](https://linkedin.com/abdullah-al-mamun-5857a0148/)  
 [![Instagram](https://cdn-icons-png.flaticon.com/512/2111/2111463.png)](https://instagram.com/abdullah_al_mamun_19971)  
-[![Twitter](https://cdn-icons-png.flaticon.com/512/733/733579.png)](https://twitter.com/abdullahmamun72)  
-[![Facebook](https://cdn-icons-png.flaticon.com/512/124/124010.png)](https://facebook.com/profile.php?id=100008344238210)  
-[![YouTube](https://cdn-icons-png.flaticon.com/512/174/174883.png)](https://www.youtube.com/@BitByByte-d2q)
+[![Website](https://cdn-icons-png.flaticon.com/512/174/174883.png)](https://sites.google.com/view/mamun1997)
+[![Twitter](https://cdn-icons-png.flaticon.com/512/733/733579.png)](https://twitter.com/abdullahmamun72/)  
+[![Facebook](https://cdn-icons-png.flaticon.com/512/124/124010.png)](https://facebook.com/profile.php?id=100008344238210/)  
+[![YouTube](https://cdn-icons-png.flaticon.com/512/174/174883.png)](https://www.youtube.com/@BitByByte-d2q/)
 
 ---
 
