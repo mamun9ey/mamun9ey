@@ -1,6 +1,6 @@
 # Abdullah Al Mamun
 
-## 🌐 Python Machine Learning | Engineer
+## 🌐 Python | Machine Learning |Software Engineer
 
 Welcome to my GitHub profile! I’m Abdullah Al Mamun, a passionate IoT Researcher, Machine Learning Enthusiast, and aspiring Software Engineer. With a strong foundation in IoT-based systems, AI-driven applications, and environmental sustainability, I bring over five years of experience in research and development.
 
