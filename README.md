@@ -1,11 +1,10 @@
 # Abdullah Al Mamun
 
-## 🌐 Python | Machine Learning |Software Engineer
+## 🌐 Python Machine Learning | Engineer
 
 Welcome to my GitHub profile! I’m Abdullah Al Mamun, a passionate IoT Researcher, Machine Learning Enthusiast, and aspiring Software Engineer. With a strong foundation in IoT-based systems, AI-driven applications, and environmental sustainability, I bring over five years of experience in research and development.
 
 I specialize in:
-
 - Developing scalable IoT solutions for smart monitoring and automation.
 - Enhancing machine learning models with explainable AI techniques for real-world impact.
 - Implementing innovative hardware-software integrations to solve pressing challenges.
@@ -94,6 +93,9 @@ Let’s collaborate to build meaningful and impactful solutions together! 🚀
 [![Twitter](https://cdn-icons-png.flaticon.com/512/733/733579.png)](https://twitter.com/abdullahmamun72)  
 [![Facebook](https://cdn-icons-png.flaticon.com/512/124/124010.png)](https://facebook.com/profile.php?id=100008344238210)  
 [![YouTube](https://cdn-icons-png.flaticon.com/512/174/174883.png)](https://www.youtube.com/@BitByByte-d2q)
+
+#### Hover Animation for Social Icons:
+You can add an effect by using HTML/CSS if used on your personal website. But note, GitHub Markdown will not support custom CSS directly, you would need to rely on GIFs or other animated icons for this.
 
 ---
 
